@@ -1,17 +1,62 @@
-[
+﻿[
   {
-    "imagen": "https://http2.mlstatic.com/D_NQ_NP_823035-MLA74718993100_032024-O.webp",
-    "url": "https://www.mercadolibre.com.ar/lavarropas-automatico-codini-ecowash-6010-inverter-6kgs-color-gris/p/MLA34121480#polycard_client=search-nordic&wid=MLA1693835446&sid=search&searchVariation=MLA34121480&position=6&search_layout=stack&type=product&tracking_id=f5f3fbe3-612e-46f2-b6b5-1254161f8c60",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_763722-MLA78127512562_082024-F.webp",
+    "url": "https://www.casafontana.com.ar/productos/set-toalla-y-toallon-palette-blanco/",
+    "descripcion": "Juego de toallas"
+  },
+  {
+    "imagen": "https://dcdn.mitiendanube.com/stores/001/643/003/products/ramita-3c910094c85f22d1c017218365784546-1024-1024.webp",
+    "url": "https://www.casafontana.com.ar/productos/sabana-suplesa-200-hilos-full/",
+    "descripcion": "Juego de Sábanas"
+  },
+  {
+    "imagen": "https://dcdn.mitiendanube.com/stores/001/643/003/products/almohada-rellena-b1b54c9c732bb0949117182197321370-1024-1024.webp",
+    "url": "https://www.casafontana.com.ar/productos/almohada-duvetina-70x40/",
+    "descripcion": "Almohadas"
+  },
+  {
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_990845-MLU74361369720_022024-F.webp",
+    "url": "https://www.mercadolibre.com.ar/juego-de-cubiertos-ipanema-tramontina-de-acero-inoxidable-rojo-30-piezas/p/MLA32557842#polycard_client=wishlist&wid=MLA1681702768&sid=bookmarks",
+    "descripcion": "Cubiertos"
+  },
+  {
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_646252-MLA69381555422_052023-F.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-1369497203-pava-silbadora-acero-inoxidable-induccion-hudson-15-lts-hsk-_JM?attributes=COLOR_SECONDARY_COLOR%3ATWFycsOzbg%3D%3D&quantity=1",
+    "descripcion": "Pava"
+  },
+  {
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_898091-MLA80477115338_112024-O.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-1437830933-combo-x-3-fuentes-d-vidrio-templado-apto-hornofreezermicro-_JM?attributes=COLOR_SECONDARY_COLOR:VHJhbnNwYXJlbnRl",
+    "descripcion": "Juego de fuentes asaderas"
+  },  
+  {
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_649026-MLA80352600811_102024-F.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-1932638280-juego-de-utensilios-silicona-cuchillos-19-piezas-_JM#polycard_client=wishlist",
+    "descripcion": "Juego utensilios"
+  },
+  {
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_877122-MLA79345524308_092024-O.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-1919866240-maquina-fabrica-pastas-amasa-fideos-acero-inoxidable-waggs-_JM",
+    "descripcion": "Máquina fabrica pastas"
+  },
+  {
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_853710-MLA76966969765_062024-O.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-1405867711-minipimer-mixer-licuadora-de-mano-mezcladora-_JM?attributes=COLOR_SECONDARY_COLOR:QmxhbmNv",
+    "descripcion": "Minipimer"
+  },
+  {
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_925169-MLA68922201387_042023-O.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-1396007240-botiquin-espejo-para-bano-22x38-cm-color-blanco-atlas-_JM?attributes=COLOR_SECONDARY_COLOR:QmxhbmNv",
+    "descripcion": "Espejo de baño"
+  },
+  {
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_864346-MLA43543797039_092020-O.webp",
+    "url": "https://articulo.mercadolibre.com.ar/MLA-934994879-cano-barral-protector-cortina-bano-reforzado-12-ganchos-_JM?attributes=COLOR_SECONDARY_COLOR:QmxhbmNv",
+    "descripcion": "Cortina de baño"
+  },
+  {
+    "imagen": "https://naldoar.vtexassets.com/arquivos/ids/160214-800-800?v=638193488969730000&width=800&height=800&aspect=true",
+    "url": "https://www.naldo.com.ar/207086/p",
     "descripcion": "Lavarropas"
-  },
-  {
-    "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_753294-MLU75209236936_032024-V.webp",
-    "url": "https://www.mercadolibre.com.ar/heladera-inverter-no-frost-midea-multi-door-470lts-color-inox/p/MLA19879254#polycard_client=search-nordic&wid=MLA1274267691&sid=search&searchVariation=MLA19879254&position=3&search_layout=stack&type=product&tracking_id=78a7459f-b0a8-4d19-8100-b506c73d45e6",
-    "descripcion": "Heladera"
-  },
-  {
-    "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_859623-MLA74040845987_012024-E.webp",
-    "url": "https://articulo.mercadolibre.com.ar/MLA-619573247-box-6-cajones-base-somier-cajonera-cama-fabrica--_JM#polycard_client=search-nordic&position=51&search_layout=grid&type=item&tracking_id=3175adcf-56e4-4ce1-9d1c-3b869bc5e5f4",
-    "descripcion": "Somier"
   }
 ]
