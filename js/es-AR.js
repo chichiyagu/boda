@@ -34,6 +34,8 @@ var lang_codigoAccesoVipRequerido = 'Ingrese el código de acceso';
 var lang_btnCodigoVip = 'Acceder';
 var lang_accediendoCodigoVip = 'Accediendo';
 
-var lang_textoFinalCuentaRegresiva = '¡LLEGO EL <br> GRAN DÍA!';
+// var lang_textoFinalCuentaRegresiva = '¡LLEGO EL <br> GRAN DÍA!';
+
+var lang_textoFinalCuentaRegresiva = '¡GRACIAS <br> <span style="font-size:30px">POR ESTAR A NUESTRO LADO</span>!';
 
 
