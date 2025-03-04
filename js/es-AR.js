@@ -36,6 +36,6 @@ var lang_accediendoCodigoVip = 'Accediendo';
 
 // var lang_textoFinalCuentaRegresiva = '¡LLEGO EL <br> GRAN DÍA!';
 
-var lang_textoFinalCuentaRegresiva = '¡GRACIAS <br> <span style="font-size:30px">POR ESTAR A NUESTRO LADO</span>!';
+var lang_textoFinalCuentaRegresiva = '<span style="font-size:30px">¡GRACIAS <br>POR ESTAR A NUESTRO LADO</span>!';
 
 
